@@ -1,0 +1,36 @@
+@media only screen and (min-width: 1200px)
+{.ui.modal {
+    width: 100%;
+    margin: 0;
+}}
+
+@media only screen and (min-width: 992px)
+{c{
+    width: 100%;
+    margin: 0;}}
+
+    @media only screen and (min-width: 768px)
+{.ui.modal {
+    width: 100%;
+    margin: 0;}}
+
+
+    .ui.modal {
+       background-color: transparent;
+   }
+
+   .ui .form {
+    top: 33%;
+   }
+
+   .ui.form .field {
+    margin: 0 67px 1em;
+   }
+
+
+   .ui .button {   
+    position: relative;
+    left: 66px;
+   } 
+
+ 
